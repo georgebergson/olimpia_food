@@ -1,6 +1,6 @@
 # olimpia_food
 
-A new Flutter project.
+Projeto Criado em Flutter para realizar vendas e pedidos rapidos integrado com o sistema OlimpiaERP
 
 ## Getting Started
 
